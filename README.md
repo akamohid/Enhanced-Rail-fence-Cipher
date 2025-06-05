@@ -1,7 +1,7 @@
 
 # 🔐 Enhanced Rail Fence Cipher (ERFC)
 
-> **😎 A Novel Emoji-Based Encryption System for Modern Secure Communication 😍**
+> **😎 A Emoji-Based Encryption System for Modern Secure Communication 😍**
 
 Developed by: **Mohid Arshad** and **Mohammad Umar**  
 School of Electrical Engineering and Computer Science (SEECS)  
