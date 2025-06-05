@@ -1,5 +1,4 @@
-
-# 🔐 Enhanced Rail-Fence Cipher (ERFC)
+#  🔐 Enhanced Rail-Fence Cipher (ERFC)
 
 **😎 A Emoji-Based Encryption System for Modern Secure Communication 😍**
 
@@ -11,7 +10,7 @@ National University of Sciences and Technology (NUST), Islamabad, Pakistan
 
 ## 📘 Abstract
 
-The **Enhanced Rail Fence Cipher (ERFC)** is a modern encryption scheme that merges classical transposition with emoji-based substitution, aiming to bridge security with human-centered design. ERFC is built on the classical Rail Fence Cipher, enhanced with key-based emoji substitution, randomized matrix transposition, and integrity hashing via SHA-256. It is especially useful for educational, lightweight secure messaging, and cryptographic puzzles.
+The **Enhanced Rail-Fence Cipher (ERFC)** is a modern encryption scheme that merges classical transposition with emoji-based substitution, aiming to bridge security with human-centered design. ERFC is built on the classical Rail Fence Cipher, enhanced with key-based emoji substitution, randomized matrix transposition, and integrity hashing via SHA-256. It is especially useful for educational, lightweight secure messaging, and cryptographic puzzles.
 
 ---
 

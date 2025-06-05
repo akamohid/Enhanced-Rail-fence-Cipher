@@ -12,5 +12,4 @@ Thank you for considering contributing to ERFC!
 4. **Run `tests/test_erfc.py`** and ensure all tests pass.
 5. **Open a Pull Request** with a descriptive title and details.
 
-
 For major changes, please open an issue first to discuss what you would like to change.

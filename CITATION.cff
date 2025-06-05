@@ -4,6 +4,7 @@ message: "If you use this software, please cite it."
 title: "Enhanced Rail Fence Cipher (ERFC)"
 version: "1.0.0"
 date-released: "2025-06-05"
+
 authors:
   - family-names: Arshad 
     given-names: Mohid 
@@ -12,5 +13,4 @@ authors:
     given-names: Mohammad
 doi: "10.5281/zenodo.1234567"
 license: "MIT"
-
 repository-code: "https://github.com/akamohid/Enhanced-Rail-fence-Cipher"
