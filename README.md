@@ -1,7 +1,7 @@
 
 # 🔐 Enhanced Rail Fence Cipher (ERFC)
 
-> **A Novel Emoji-Based Encryption System for Modern Secure Communication**
+> **😎 A Novel Emoji-Based Encryption System for Modern Secure Communication 😍**
 
 Developed by: **Mohid Arshad** and **Mohammad Umar**  
 School of Electrical Engineering and Computer Science (SEECS)  
@@ -17,19 +17,29 @@ The **Enhanced Rail Fence Cipher (ERFC)** is a modern encryption scheme that mer
 
 ## 📚 Table of Contents
 
-- [Architecture Overview](#architecture-overview)
-- [System Components](#system-components)
-- [How ERFC Works](#how-erfc-works)
-- [Encryption Process](#encryption-process)
-- [Decryption Process](#decryption-process)
-- [Security Analysis](#security-analysis)
-- [Performance & Efficiency](#performance--efficiency)
-- [Applications](#applications)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Citation](#citation)
-- [License](#license)
+- [🔐 Enhanced Rail Fence Cipher (ERFC)](#-enhanced-rail-fence-cipher-erfc)
+  - [📘 Abstract](#-abstract)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [🧠 Architecture Overview](#-architecture-overview)
+  - [⚙️ System Components](#️-system-components)
+  - [🔐 How ERFC Works](#-how-erfc-works)
+    - [🔄 Substitution Mapping](#-substitution-mapping)
+    - [🔳 Matrix Construction](#-matrix-construction)
+    - [🧂 Salt Generation](#-salt-generation)
+    - [🧬 SHA-256 Hashing](#-sha-256-hashing)
+  - [🔏 Encryption Process](#-encryption-process)
+  - [🔓 Decryption Process](#-decryption-process)
+  - [🔐 Security Analysis](#-security-analysis)
+  - [⚡ Performance \& Efficiency](#-performance--efficiency)
+  - [📦 Applications](#-applications)
+  - [💾 Installation](#-installation)
+  - [▶️ Usage (CLI)](#️-usage-cli)
+  - [🧪 Testing](#-testing)
+  - [📂 Project Structure](#-project-structure)
+  - [🔖 Citation](#-citation)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
+  - [🧾 Related Paper](#-related-paper)
 
 ---
 
@@ -144,7 +154,8 @@ ERFC was evaluated using standard cryptographic principles:
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/m-umar-raza/ERFC.git
+git clone https://github.com/akamohid/Enhanced-Rail-fence-Cipher.git
+
 cd ERFC
 python src/erfc.py
 ```
@@ -209,7 +220,7 @@ If used in academic or technical work, cite as:
   title        = {Enhanced Rail Fence Cipher (ERFC)},
   year         = 2025,
   howpublished = {GitHub},
-  url          = {https://github.com/m-umar-raza/ERFC}
+  url          = {https://github.com/akamohid/Enhanced-Rail-fence-Cipher}
 }
 ```
 
@@ -245,3 +256,4 @@ docs/ERFC_paper.pdf
 ```
 
 ---
+"# Enhanced-Rail-fence-Cipher" 
