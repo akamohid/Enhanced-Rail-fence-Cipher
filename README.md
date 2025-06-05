@@ -255,4 +255,8 @@ docs/ERFC_paper.pdf
 ```
 
 ---
-"# Enhanced-Rail-fence-Cipher" 
+## 📞 Contact and Feedback
+
+Made by **Mohid Arshad**.  
+GitHub: [akamohid](https://github.com/akamohid)  
+Email: "akamohid@gmail.com"
