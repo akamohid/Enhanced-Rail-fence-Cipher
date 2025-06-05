@@ -214,7 +214,7 @@ ERFC/
 If used in academic or technical work, cite as:
 
 ```bibtex
-@misc{umar2025erfc,
+@misc{mohid2025erfc,
   author       = {Mohammad Umar and Mohid Arshad},
   title        = {Enhanced Rail Fence Cipher (ERFC)},
   year         = 2025,
